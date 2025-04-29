@@ -13,3 +13,6 @@ This repository contains my step-by-step solutions for an OOP assignment using J
 5. **While Loop:**  
    Uses a while loop and Scanner to repeatedly prompt the user until "exit" is entered.
 ## Project Structure
+
+## Running the Code
+To run any challenge, open the corresponding Java file in IntelliJ, or any java compiler
